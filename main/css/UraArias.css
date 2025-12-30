@@ -10,6 +10,3 @@ h1{
 .email-link:active {
 	color: green;
 }
-.email-link:visited {
-	color: blue;
-}
