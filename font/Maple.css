@@ -1,0 +1,129 @@
+	/* Bold
+		https://fontsapi.zeoseven.com/442/bold/result.css
+	Bold Italic
+		https://fontsapi.zeoseven.com/442/bold-italic/result.css
+	Extra Bold
+		https://fontsapi.zeoseven.com/442/extra-bold/result.css
+	Extra Bold Italic
+		https://fontsapi.zeoseven.com/442/extra-bold-italic/result.css
+	Extra Light
+		https://fontsapi.zeoseven.com/442/extra-light/result.css
+	Extra Light Italic
+		https://fontsapi.zeoseven.com/442/extra-light-italic/result.css
+	Italic
+		https://fontsapi.zeoseven.com/442/italic/result.css
+	Light
+		https://fontsapi.zeoseven.com/442/light/result.css
+	Light Italic
+		https://fontsapi.zeoseven.com/442/light-italic/result.css
+	Medium
+		https://fontsapi.zeoseven.com/442/medium/result.css
+	Medium Italic
+		https://fontsapi.zeoseven.com/442/medium-italic/result.css
+	Regular
+		https://fontsapi.zeoseven.com/442/main/result.css
+	Semi Bold
+		https://fontsapi.zeoseven.com/442/semi-bold/result.css
+	Semi Bold Italic
+		https://fontsapi.zeoseven.com/442/semi-bold-italic/result.css
+	Thin
+		https://fontsapi.zeoseven.com/442/thin/result.css
+	Thin Italic
+		https://fontsapi.zeoseven.com/442/thin-italic/result.css */
+
+@font-face {
+	font-family: Maple;
+	src: url(https://fontsapi.zeoseven.com/442/bold/result.css);
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: Maple;
+	src: url(https://fontsapi.zeoseven.com/442/bold-italic/result.css);
+	font-weight: 700;
+	font-style: italic;
+}
+@font-face {
+	font-family: Maple;
+	src: url(https://fontsapi.zeoseven.com/442/extra-bold/result.css);
+	font-weight: 800;
+	font-style: normal;
+}
+@font-face {
+	font-family: Maple;
+	src: url(https://fontsapi.zeoseven.com/442/extra-bold-italic/result.css);
+	font-weight: 800;
+	font-style: italic;
+}
+@font-face {
+	font-family: Maple;
+	src: url(https://fontsapi.zeoseven.com/442/extra-light/result.css);
+	font-weight: 200;
+	font-style: normal;
+}
+@font-face {
+	font-family: Maple;
+	src: url(https://fontsapi.zeoseven.com/442/extra-light-italic/result.css);
+	font-weight: 200;
+	font-style: italic;
+}
+@font-face {
+	font-family: Maple;
+	src: url(https://fontsapi.zeoseven.com/442/italic/result.css);
+	font-weight: 350;
+	font-style: italic;
+}
+@font-face {
+	font-family: Maple;
+	src: url(https://fontsapi.zeoseven.com/442/light/result.css);
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: Maple;
+	src: url(https://fontsapi.zeoseven.com/442/light-italic/result.css);
+	font-weight: 300;
+	font-style: italic;
+}
+@font-face {
+	font-family: Maple;
+	src: url(https://fontsapi.zeoseven.com/442/medium/result.css);
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {
+	font-family: Maple;
+	src: url(https://fontsapi.zeoseven.com/442/medium-italic/result.css);
+	font-weight: 600;
+	font-style: italic;
+}
+@font-face {
+	font-family: Maple;
+	src: url(https://fontsapi.zeoseven.com/442/main/result.css);
+	font-weight: 350;
+	font-style: normal;
+}
+@font-face {
+	font-family: Maple;
+	src: url(https://fontsapi.zeoseven.com/442/semi-bold/result.css);
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: Maple;
+	src: url(https://fontsapi.zeoseven.com/442/semi-bold-italic/result.css);
+	font-weight: 500;
+	font-style: italic;
+}
+@font-face {
+	font-family: Maple;
+	src: url(https://fontsapi.zeoseven.com/442/thin/result.css);
+	font-weight: 100;
+	font-style: normal;
+}
+@font-face {
+	font-family: Maple;
+	src: url(https://fontsapi.zeoseven.com/442/thin-italic/result.css);
+	font-weight: 100;
+	font-style: italic;
+}
